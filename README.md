@@ -1,12 +1,12 @@
-#####TaxSum
+##TaxSum
 This library is created for people like e.g. developing point of sale systems, webshops etc. who wants to understand how taxes are calculated back and forth.
 
 ---
-#####Example usage guide
+##xample usage guide
 Coming soon...
 
 ---
-#####Frameworks / Languages supported
+##Frameworks / Languages supported
 
 >PHP 7.3.1 - Full with an example
 
