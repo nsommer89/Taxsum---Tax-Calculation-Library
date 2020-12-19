@@ -1,7 +1,0 @@
-C:\Skole\Taxsum\TaxSum-CSharp\TaxSum-CSharp\bin\Debug\TaxSum-CSharp.exe.config
-C:\Skole\Taxsum\TaxSum-CSharp\TaxSum-CSharp\bin\Debug\TaxSum-CSharp.exe
-C:\Skole\Taxsum\TaxSum-CSharp\TaxSum-CSharp\bin\Debug\TaxSum-CSharp.pdb
-C:\Skole\Taxsum\TaxSum-CSharp\TaxSum-CSharp\obj\Debug\TaxSum-CSharp.csprojAssemblyReference.cache
-C:\Skole\Taxsum\TaxSum-CSharp\TaxSum-CSharp\obj\Debug\TaxSum-CSharp.csproj.CoreCompileInputs.cache
-C:\Skole\Taxsum\TaxSum-CSharp\TaxSum-CSharp\obj\Debug\TaxSum-CSharp.exe
-C:\Skole\Taxsum\TaxSum-CSharp\TaxSum-CSharp\obj\Debug\TaxSum-CSharp.pdb
