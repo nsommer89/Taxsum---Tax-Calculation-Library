@@ -52,7 +52,7 @@ try {
     }
 
     /**
-     * ....
+     * In this we take the products with prices with tax, and calculate back to the original price without tax.
      */
     echo "<hr><h3>Product prices - Calculates what the prices was before the taxes was added</h3>";
     foreach ($productsWithTax as $product) {
